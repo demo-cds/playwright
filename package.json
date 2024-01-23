@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "playwright": "^1.40.1",
+    "playwright-qase-reporter": "^1.2.2"
+  }
+}
